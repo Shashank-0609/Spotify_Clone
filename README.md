@@ -24,6 +24,7 @@ Notes
 This was purely a static UI project. Windows, JS, music playing or APIs were not used in this project. In addition, this entire build was only for practice and use in my portfolio.
 
 Project Layout
+
 ├── index.html
 
 ├── style.css
