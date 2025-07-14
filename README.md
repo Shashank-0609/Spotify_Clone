@@ -25,7 +25,9 @@ This was purely a static UI project. Windows, JS, music playing or APIs were not
 
 Project Layout
 ├── index.html
+
 ├── style.css
+
 └── README.md
 
 
