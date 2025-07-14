@@ -38,7 +38,7 @@ Built as a hands-on exercise to strengthen front-end development skills, layout 
 
 Getting Started
 
-1. Clone the repository: https://github.com/Shashank-0609/spotify-clone.git
+1. Clone the repository: https://github.com/Shashank-0609/Spotify_Clone.git
 
 2. Open `index.html` in your browser to view the project.
 
